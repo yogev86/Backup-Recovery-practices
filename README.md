@@ -1,2 +1,2 @@
-# Backup $ Recovery practices
+# Backup & Recovery practices
 ## Homework for Backup &amp; Recovery
